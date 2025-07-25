@@ -10,7 +10,7 @@
 
 ## 🧠 Project Overview
 
-This project explores the application of **supervised machine learning** techniques to predict the presence of heart disease based on real clinical attributes. Developed as an academic research project, the study investigates two popular classification models — **K-Nearest Neighbors (K-NN)** and **Random Forest** — and evaluates their performance using a real-world medical dataset.
+This project explores the application of **supervised machine learning** techniques to predict the presence of heart disease based on real clinical attributes. Developed as an academic research project, the study investigates two popular classification models — **K-Nearest Neighbors (K-NN)** and **Random Forest** — and evaluates their performance using a real-world medical dataset. Important to mention: The program use for the research is Matlab, but it can be easily switched to jupyter or python, as both program languages are similar in data analyses.
 
 ---
 
